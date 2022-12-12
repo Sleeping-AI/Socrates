@@ -21,3 +21,8 @@ At the moment, with this proof-of-concept we established large language models h
 **Note: ** This code is taken from Keras as they have awesome documentation, haha! There wasn't much reason to write custom code for the proof-of-concept. The dataset is our original work but we have made it open source. 
 
 ### Disclaimer: The idea behind Socrates is original to GitHub: @sleepingcat4. He and his team reserves all the rights to publish papers and conduct further research. Anything else will be a violation of copyright law. 
+
+**Contributors:**
+1. TAWSIF AHMED, (Main Author) **Discord:** sleeping_cat4#8182
+2. Harsh, (Co-author/programmer) **Discord:** harsh1729#5323
+3. Kaapo Kontinen (Co-author/Linguist) **Discord:** kvk#9152
