@@ -12,13 +12,15 @@ Large Language Models (LLMs) are widely being used for variety of tasks. From cr
 
 **Upcoming work**
 At the moment, with this proof-of-concept we established large language models have the viabiity of acting as ciphers. Currently, we are better understanding the linguistics behind creating a robust Colang, ethical impilcations and tackling them. We have plans to get feedback from Professor Noam Chomsky and have a publication next year.
-       -arXiv paper
-       - More technically creative
-       - Roberta and Large Models being used
-       - a Custom Colang
-       - More more more
+<ul>
+       <li>arXiv paper</li>
+       <li>More technically creative</li>
+       <li>Roberta and Large Models being used</li>
+       <li>a Custom Colang</li>
+       <li>More more more</li>
+</ul>
 
-**Note: ** This code is taken from Keras as they have awesome documentation, haha! There wasn't much reason to write custom code for the proof-of-concept. The dataset is our original work but we have made it open source. 
+**Note:** This code is taken from Keras as they have awesome documentation, haha! There wasn't much reason to write custom code for the proof-of-concept. The dataset is our original work but we have made it open source. 
 
 ### Disclaimer: The idea behind Socrates is original to GitHub: @sleepingcat4. He and his team reserves all the rights to publish papers and conduct further research. Anything else will be a violation of copyright law. 
 
