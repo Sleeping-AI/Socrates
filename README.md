@@ -10,6 +10,12 @@ Large Language Models (LLMs) are widely being used for variety of tasks. From cr
 **Why LLMS?**
 - Transformers and Large Language Models in general has shown the capability of writing near human level textual content that being more robust and advanced than being a plain translator. In our initial project, we have explored LLMs possibility in a smaller context through training a seq-seq model with a limited amount of examples. In our iniial test run, we were quite successful and have deployed an interference on Huggingface. 
 
+**Limitations**
+At the moment, we have limitations to Socrates. It was trained on a very small dataset and examples. That's why, it can't meaningfully translate everything to High Valyrian. Though it can still translate by nature of transformers characterstics of understanding patterns from a parallel corpus but not really that accurate. But, if you use any example from the dataset, it tends to be really really accurate. 
+
+**Code Policy**
+The model and training code were taken from **Keras NLP** since it was proof of concpet. But, we made some changes to the code as we had to add an interference that can be accessible via gradio. **Keras NLP** similar to other NLP linraries a wide spread pain, haha! That's why, we are looking forward to publish another bundle of notebooks that will contain the code implementation in a more human sense and easily deployable. Meanwhile, we're working on having a 24/7 public interference with Socrates available within few days on our Huggingface Hub for **Sleeping AI** [https://huggingface.co/sleepin4ai]
+
 **Upcoming work**
 At the moment, with this proof-of-concept we established large language models have the viabiity of acting as ciphers. Currently, we are better understanding the linguistics behind creating a robust Colang, ethical impilcations and tackling them. We have plans to get feedback from Professor Noam Chomsky and have a publication next year.
 <ul>
