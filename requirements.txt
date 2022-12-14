@@ -1,0 +1,4 @@
+transformers
+keras
+tensorflow
+gradio
