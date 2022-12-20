@@ -34,3 +34,4 @@ At the moment, with this proof-of-concept we established large language models h
 1. TAWSIF AHMED, (Main Author) **Discord:** sleeping_cat4#8182
 2. Harsh, (Co-author/programmer) **Discord:** harsh1729#5323
 3. Kaapo Kontinen (Co-author/Linguist) **Discord:** kvk#9152
+4. Yash Mathur (Co-author/programmer) **Discord:** Gripen#0055
