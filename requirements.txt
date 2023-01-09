@@ -1,4 +1,0 @@
-transformers
-keras
-tensorflow
-gradio
